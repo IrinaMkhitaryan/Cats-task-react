@@ -1,0 +1,9 @@
+.content {
+    display: flex;
+}
+.category {
+    width: 250px;
+}
+.cats {
+    width: 90%;
+}
